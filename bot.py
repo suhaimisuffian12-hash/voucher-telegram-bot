@@ -1,3 +1,5 @@
+import os
+os.environ['PORT'] = '8000'
 import telebot
 import requests
 import qrcode
