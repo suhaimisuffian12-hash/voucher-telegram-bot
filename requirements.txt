@@ -2,3 +2,8 @@ pytelegrambotapi==4.13.0
 requests==2.31.0
 qrcode==7.3
 python-dotenv==1.0.0
+pytelegrambotapi==4.13.0
+requests==2.31.0
+qrcode==7.3
+python-dotenv==1.0.0
+Pillow==11.0.0
